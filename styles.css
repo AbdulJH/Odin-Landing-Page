@@ -3,29 +3,36 @@
   padding: 0;
 }
 
-.header-logo {
-  color: white;
-  font-size: 25px;
-  margin-left: 165px;
-  margin-top: 8px;
+.top-container {
+  background-color: #1F2937;
+  height: 400px;
 }
 
-
-.top-container {
-  display: flex;
-  background-color: #1F2937;
-  height: 300px;
+.header-logo {
+  color: white;
+  font-size: 23px;
+  margin-left: 155px;
 }
 
 .top-row {
   display: flex;
-  color: #c5c9cf;
-  margin-left: auto;
-  font-size: 15px;  
-  margin-top: 12px;
-  margin-right: 180px; 
+  padding-top: 10px;
   gap: 20px;
 }
+
+
+.right-item-1 {
+  margin-left: auto;
+}
+
+.right-item-3 {
+  margin-right: 200px;
+
+} 
+
+
+
+
 
 a { 
   text-decoration: none; 
@@ -34,6 +41,14 @@ a {
 
 a:hover {
   color: aliceblue;
-
 }
+
+.top-info {
+  margin-top: 100px;
+}
+
+
+
+
+
 
