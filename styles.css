@@ -5,7 +5,7 @@
 
 .top-container {
   background-color: #1F2937;
-  height: 400px;
+  height: 450px;
 }
 
 .header-logo {
@@ -45,6 +45,51 @@ a:hover {
 
 .top-info {
   margin-top: 100px;
+  margin-left: 145px;
+}
+
+.only-btn {
+  background-color: #3882F6;
+  color: white;
+  font-weight: bolder;
+  border: none;
+  margin-top: 7px;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.only-btn:hover {
+  background-color: #95bbf7;
+}
+
+h1 {
+  font-size: 35px;
+  color: #F9FAF8;
+}
+
+p {
+  color: #e5e7eb;
+}
+
+.flex-container {
+  display: flex;
+}
+
+
+
+.top-img {
+  margin-left: 800px;
+  margin-bottom: 200px;
+  
+
+
+}
+
+img {
+  height: 100%;
+  width: 350px;
+
 }
 
 
