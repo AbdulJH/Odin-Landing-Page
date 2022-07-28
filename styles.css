@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header-logo {
+  color: white;
+  font-size: 25px;
+  margin-left: 165px;
+  margin-top: 8px;
+}
+
+
+.top-container {
+  display: flex;
+  background-color: #1F2937;
+  height: 300px;
+}
+
+.top-row {
+  display: flex;
+  color: #c5c9cf;
+  margin-left: auto;
+  font-size: 15px;  
+  margin-top: 12px;
+  margin-right: 180px; 
+  gap: 20px;
+}
+
+a { 
+  text-decoration: none; 
+  color: #c5c9cf;
+}
+
+a:hover {
+  color: aliceblue;
+
+}
+
