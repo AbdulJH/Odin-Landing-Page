@@ -86,10 +86,35 @@ p {
 
 }
 
-img {
+.grey-img {
   height: 100%;
   width: 350px;
 
+}
+
+.second-container {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  padding-top: 30px;
+  background-color: #95bbf7;
+  height: 350px;
+}
+
+
+.rand-info {
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+  color: black;
+  background-color: #95bbf7;
+}
+
+
+
+.square-img {
+  width: 200px;
+  height: 200px;
 }
 
 
