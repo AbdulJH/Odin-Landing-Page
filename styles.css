@@ -97,7 +97,7 @@ p {
   gap: 50px;
   justify-content: center;
   padding-top: 30px;
-  background-color: #95bbf7;
+  background-color: white;
   height: 350px;
 }
 
@@ -107,15 +107,36 @@ p {
   justify-content: center;
   padding-top: 25px;
   color: black;
-  background-color: #95bbf7;
+  background-color: white;
 }
-
-
 
 .square-img {
   width: 200px;
   height: 200px;
 }
+
+.third-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e5e7eb;
+  height: 400px;
+  width: 100%;
+}
+
+.quote {
+  font-size: 22px;
+  font-style: italic;
+  margin-left: 110px;
+}
+
+.author {
+  margin-top: 175px;
+  font-size: 18px;
+}
+
+
+
 
 
 
