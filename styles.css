@@ -135,6 +135,51 @@ p {
   font-size: 18px;
 }
 
+.fourth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 350px;
+  background-color: aliceblue;
+}
+
+.alert-background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1DA1F2;
+  width: 1000px;
+  height: 130px;
+  gap: 350px;
+}
+
+.alert-h3 {
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.alert-p {
+  color: rgb(233, 230, 230);
+}
+
+.sign-btn {
+  width: 110px;
+  height: 32px;
+  color: white;
+  font-weight: bolder;
+  background-color: #1DA1F2;
+  border-radius: 4px;
+  border: 2px solid white;
+}
+
+.sign-btn:hover {
+  background-color:  #60c1fd;;
+
+}
+
+
 
 
 
